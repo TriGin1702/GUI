@@ -1,0 +1,10 @@
+<ds> 
+    <student>
+        <id>stu01</id>
+        <name>Nguyễn Văn Tí </name>
+        <tk>ti0123</tk>
+        <mk>ti1234</mk>
+        <age>18</age>
+        <salary>5000000</salary>
+    </student>
+ </ds>
